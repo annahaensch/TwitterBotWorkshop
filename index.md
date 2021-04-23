@@ -1,4 +1,4 @@
-# Build A Twitter Bot in 2 Hours
+# Twitter Bots
 
 The rise of Twitter as a critical tool in public discourse has sparked important conversations about the role of Twitter bots in shaping the social media dialogue.  Automated tweets amplify content posted by politicians and public figures, spam bots flood hashtags to obscure messaging and protest bots call attention to #HashtagActivism through targeted content.  Behind each of these bots is the infrastructure of the Twitter API and the set of development tools to programmatically access it.  
 
