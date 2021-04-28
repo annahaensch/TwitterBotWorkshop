@@ -21,4 +21,4 @@ Be sure to copy down your keys and tokens into a text file where you can find th
 * Slides, [_How	to	Make	a	Twitter	Bot	in	1	Hour	or	Less_](https://dsg.neu.edu/wp-content/uploads/2017/04/BotsWorkshop.pdf) by [Élika Ortega](https://elikaortega.net/)
 * [Twitter Developer Portal](https://developer.twitter.com/en/portal/dashboard)
 * [Cheap Bots Done Quick](https://cheapbotsdonequick.com/)
-* Building a Twitter bot using Python with Tweepy.
+* [Building a Twitter bot using Python with Tweepy](https://realpython.com/twitter-bot-python-tweepy/).
