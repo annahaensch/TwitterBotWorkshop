@@ -21,7 +21,7 @@ Once you've been granted access, you can login to your [Developer Dashboard](htt
 
 Be sure to copy down your keys and tokens into a text file where you can find them later. 
 
-# Useful Resources
+### Some Other Fun & Useful Resources
 * [Twitterbot Workshop by Ryan Cordell](https://ryancordell.org/teaching/Twitterbot-Workshop/)
 * Slides, [_How	to	Make	a	Twitter	Bot	in	1	Hour	or	Less_](https://dsg.neu.edu/wp-content/uploads/2017/04/BotsWorkshop.pdf) by [Élika Ortega](https://elikaortega.net/)
 * [Twitter Developer Portal](https://developer.twitter.com/en/portal/dashboard)
