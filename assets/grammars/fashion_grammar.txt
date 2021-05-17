@@ -16,7 +16,7 @@
 
 {
 	"origin": 
-		"This year, summer office fashion will be all about #attitude# prints and #textile#. #image#", 
+		"Summer fashion will be all about #attitude# prints and #textile#. #image#", 
 	"image": 
 		"{img https://raw.githubusercontent.com/annahaensch/TwitterBotWorkshop/main/assets/img/chicks#image-number#.jpg}",
 	"image-number":
