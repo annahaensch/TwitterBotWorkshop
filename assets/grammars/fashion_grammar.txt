@@ -420,7 +420,7 @@
 	    "volcanic",
 	    "vulnerable",
 	    "zealous"
-	  	]
+	  	],
 	"textile":
 		[
 	    "acrylic",
