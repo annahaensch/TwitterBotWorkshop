@@ -1,0 +1,34 @@
+#
+#  Tracery grammar to generate SVG shapes
+# 
+#  Colors are the New Tableau 10 color palettes:
+#     	https://www.tableau.com/about/blog/2016/7/colors-upgrade-tableau-10-56782
+#  
+#  Tracery library written by Kate Compton:
+#		https://tracery.io/
+# 
+#  Cut/paste everything below the dashed line into:
+#       https://cheapbotsdonequick.com/
+#
+  --------------------------------------------------
+
+{
+	"color": ["6dccda", 
+				"cdcc5d", 
+				"a2a2a2", 
+				"ed97ca", 
+				"a8786e", 
+				"ad8bc9", 
+				"ed665d",
+				"67bf5c",
+				"ff9e4a",
+				"729ece"
+				],
+	"coord":  [
+			   "50,60 25,180 70,180",
+			   "10,20 200,190 60,150",
+			   "50,20 100,10 150,175"
+			   ],
+	"triangle": "{svg <svg xmlns=\"http://www.w3.org/2000/svg\"  width=\"200\" height=\"200\">  <polygon points=\"#coord#\" style=\"fill:\\##color#\" /></svg>}",
+	"origin": "#triangle#"
+}
