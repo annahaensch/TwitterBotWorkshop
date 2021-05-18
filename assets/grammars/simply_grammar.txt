@@ -1,0 +1,57 @@
+#
+#  Tracery grammar to memes in the "one does not.
+#  simply..." format.
+#
+#  Words lists frome from Darius Kazemi's Corpora:
+#     	https://github.com/dariusk/corpora
+#  
+#  Tracery library written by Kate Compton:
+#		https://tracery.io/
+# 
+#  Cut/paste everything below the dashed line into:
+#       https://cheapbotsdonequick.com/
+#
+  --------------------------------------------------
+
+
+{
+	"origin": "{svg <svg xmlns=\"http://www.w3.org/2000/svg\" 
+		xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"700\" height=\"500\"><image width=\"700\" height=\"500\" xlink:href=\"#image#\" />#meme#</svg>}",
+	"meme": ["<text x=\"350\" y=\"400\" font-family=\"Impact\" font-size=\"30px\"  
+		font-weight = \"1000\" stroke=\"black\" stroke-width=\"1\" fill=\"white\" text-anchor=\"middle\">#memetext#</text><text x=\"350\" y=\"100\" font-family=\"Impact\" font-size=\"30px\"  font-weight = \"1000\" stroke=\"black\" stroke-width=\"1\" fill=\"white\" text-anchor=\"middle\">ONE DOES NOT SIMPLY</text>"],
+	"image": "https://raw.githubusercontent.com/annahaensch/TwitterBotWorkshop/main
+		/assets/img/simply.jpg",
+	"memetext": "#musicmaker# THE #instrument#.",
+	"musicmaker": [
+				"PLAY", 
+				"NOODLE AROUND ON", 
+				"HAMMER AWAY AT", 
+				"DIDDLE AROUND ON", 
+				"FREESTYLE ON"
+				],
+	"instrument":[
+				"DIDGERIDOO",
+				"DOBRO",
+				"DULCIMER",
+				"FIDDLE",
+				"FIFE",
+				"FLUGELHORN",
+				"FLUTE",
+				"FRENCHHORN",
+				"GLOCKENSPIEL",
+				"GRAND PIANO",
+				"GUITAR",
+				"HARMONICA",
+				"HARP",
+				"HARPSICHORD",
+				"HURDY-GURDY",
+				"KAZOO",
+				"KICK DRUM",
+				"LUTE",
+				"LYRE",
+				"MANDOLIN",
+				"MARIMBA",
+				"MELLOTRAN",
+				"MELODICA"
+		  		]
+}
